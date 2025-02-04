@@ -1,0 +1,7 @@
+C:\Users\Yağmur Ercan\source\repos\CSharpEgitimKampi\04_LOOPS\bin\Debug\04_LOOPS.exe.config
+C:\Users\Yağmur Ercan\source\repos\CSharpEgitimKampi\04_LOOPS\bin\Debug\04_LOOPS.exe
+C:\Users\Yağmur Ercan\source\repos\CSharpEgitimKampi\04_LOOPS\bin\Debug\04_LOOPS.pdb
+C:\Users\Yağmur Ercan\source\repos\CSharpEgitimKampi\04_LOOPS\obj\Debug\04_LOOPS.csproj.AssemblyReference.cache
+C:\Users\Yağmur Ercan\source\repos\CSharpEgitimKampi\04_LOOPS\obj\Debug\04_LOOPS.csproj.CoreCompileInputs.cache
+C:\Users\Yağmur Ercan\source\repos\CSharpEgitimKampi\04_LOOPS\obj\Debug\04_LOOPS.exe
+C:\Users\Yağmur Ercan\source\repos\CSharpEgitimKampi\04_LOOPS\obj\Debug\04_LOOPS.pdb
